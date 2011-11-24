@@ -12,6 +12,4 @@ This is my test software to test PhpGitMaster
 10
 11
 
-A
-B
-C
+THIS IS VERSION 2
