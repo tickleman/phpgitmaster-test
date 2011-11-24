@@ -12,6 +12,6 @@ This is my test software to test PhpGitMaster
 10
 11
 
-X
-Y
-Z
+A
+B
+C
